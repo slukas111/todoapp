@@ -67,3 +67,19 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 # todoapp
+
+
+[] create-react-app
+[] show message from state 
+[] create a new todo form
+[] call a function when the form is submitted
+[] create string property on our state to store user input
+[] listen for when the input changes and update the state
+[] log the user input when the form is submitted
+[] create an array property on our state for todos
+[] add a new todo into the todos array, with done {false}
+[] show the totos in a list
+[] check done on a todo to mark it as done
+[] show a line through the todo text
+[] add a button to remove a todo
+[] add a buttom to mark all todos done
